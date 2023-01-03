@@ -11,6 +11,7 @@ Navegador Python dedicado ao software EVOGESTÃO - www.swdagencia.com.br
 
 ## Tarefas
 - [ ] Criar executável
+- [ ] Ocultar o cmd durante a execução
 - [ ] Configuração das janelas
 - [ ] Personalizar ícones
 - [ ] Personalizar configurações de codificação para total compatibilidade com o sistema
