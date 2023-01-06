@@ -10,8 +10,8 @@ Navegador Python dedicado ao software EVOGESTÃO - www.swdagencia.com.br
  	# pip install -r requirements.txt
 
 ## Tarefas
-- [ ] Criar executável
-- [ ] Ocultar o cmd durante a execução
-- [ ] Configuração das janelas
-- [ ] Personalizar ícones
+- [x] Criar executável
+- [x] Ocultar o cmd durante a execução
+- [x] Configuração das janelas
+- [x] Personalizar ícones
 - [ ] Personalizar configurações de codificação para total compatibilidade com o sistema
